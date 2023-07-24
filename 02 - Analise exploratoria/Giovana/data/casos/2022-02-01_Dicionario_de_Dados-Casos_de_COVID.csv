@@ -1,0 +1,9 @@
+Nome do Campo;Descrição
+DATA INCLUSÃO;Data em que caso de COVID foi incluído na base de dados e realizada a notificação
+CLASSIFICAÇÃO;Informa se o caso do COVID foi confirmado
+IDADE;Idade do paciente no momento da notificação do caso de COVID
+SEXO;Sexo do Paciente
+BAIRRO;Informa o Bairro de residência do paciente no momento da notificação do caso de COVID
+DISTRITO;Informa o Distrito Sanitário de residência do paciente no momento da notificação do caso de COVID
+DATA DO ÓBITO;Data em que ocorreu o óbito
+ENCERRAMENTO;Informa a conclusão final do caso de COVID se Recuperado ou Óbito confirmado

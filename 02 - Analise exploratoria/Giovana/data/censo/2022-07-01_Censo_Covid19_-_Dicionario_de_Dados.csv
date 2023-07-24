@@ -1,0 +1,6 @@
+Nome do Campo;Descrição
+HOSPITAL ;Hospitas da Rede Credenciada ao SUS para atendimento aos pacientes com diagnóstico de COVID
+Casos suspeitos e prováveis  Enfermaria adulto e pediátrico;Número de pacientes internados com provável diagnóstico de COVID em Enfermaria 
+Casos confirmados COVID Enfermaria  Adulto e Pediátrico;Número de pacientes internados com diagnóstico confirmado de COVID em Enfermaria
+Total de internados em leitos de Enfermaria preferencialmente COVID;Número total de pacientes internados nos leitos de Enfermaria 
+Nº de pacientes COVID positivo internados em UTI na Rede Hospitalar SUS Curitiba;Número de pacientes internados com diagnóstico confirmado de COVID em UTI
